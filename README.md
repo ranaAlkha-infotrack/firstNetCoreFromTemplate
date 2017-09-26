@@ -1,0 +1,2 @@
+# firstNetCoreFromTemplate
+firstNetCoreFromTemplate
